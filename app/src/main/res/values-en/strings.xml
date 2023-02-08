@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">About me</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="info">With more than 20 years in the market and operations in Argentina, Chile, Colombia and Peru.
+        Viajes Turisteando has stood out for its service, expert and personalized advice,
+        excellent offers and all forms of payment so that everyone can fulfill their dream of traveling.
+    </string>
+
+</resources>

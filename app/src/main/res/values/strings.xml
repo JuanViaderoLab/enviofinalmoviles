@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="info">Con más de 20 años en el mercado y operaciones en Argentina, Chile, Colombia y Perú. Viajes Turisteando se ha destacado por su servicio,
+        asesoría experta y personalizada, excelentes ofertas y todas las formas de pago para que todos puedan cumplir su sueño de viajar.
+    </string>
+
+</resources>
